@@ -72,6 +72,7 @@ As a highly motivated and ambitious individual who is currently pursuing a Bache
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
+<a href = "mailto:alfianmna@gmail.com" target="blank"><img align="center" title="alfianmna@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="alfian-email" height="35" width="40"/></a>
 <a href="https://www.linkedin.com/in/alfian-maulana-76656b282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfian-linkdin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alfianmnaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfianig" height="30" width="40" /></a>
 </p>

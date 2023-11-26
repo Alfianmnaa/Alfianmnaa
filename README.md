@@ -1,6 +1,6 @@
 # 👨‍💻 Alfian Maulana
 
-**`Fullstack Web Developer and UI/UX Designer`**
+**`Fullstack Web Developer | React Developer`**
 
 As an Informatics Engineering student, I have more than 2 years of experience in web development with more than 10 completed projects. My main skills include HTML, CSS, JavaScript, and React, as well as integrated website building expertise with good UI and UX and responsive design. I am also experienced in backend technologies such as Node.js and Express.js, which facilitate dynamic web applications with features such as user authentication and database integration. With strong problem-solving abilities, I adeptly manage individual tasks and team collaboration, completed with proficiency in version control through Git and team interaction through GitHub.
 
